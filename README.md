@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vyzaldy!!</h1>
 <h3 align="center">Software Engineer from the Dominican Republic 🇩🇴🌴. JS/TS and FP enthusiast.</h3>
-<p align="left"> <img src="https://visitors.vercel.app/vyzaldysanchez/visitors.vercel.app" alt="vyzaldysanchez" /> </p>
+<!-- <p align="left"> <img src="https://visitors.vercel.app/vyzaldysanchez/visitors.vercel.app" alt="vyzaldysanchez" /> </p> -->
 
 🔭 I’m currently working on [Earnbet.io](https://earnbet.io/)
 
