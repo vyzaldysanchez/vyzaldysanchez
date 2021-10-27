@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vyzaldy!!</h1>
-<h3 align="center">Software Engineer from the Dominican Republic 🇩🇴🌴. JS/TS and FP enthusiast.</h3>
+<h3 align="center">Software Engineer from the Dominican Republic 🇩🇴🌴. Gopher, JS/TS and FP enthusiast.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vyzaldysanchez" alt="vyzaldysanchez" /> </p>
 
 🔭 I’m currently building Chainlink.
