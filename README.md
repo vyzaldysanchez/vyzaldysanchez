@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer from the Dominican Republic 🇩🇴🌴. Gopher, JS/TS and FP enthusiast.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vyzaldysanchez" alt="vyzaldysanchez" /> </p>
 
-🔭 I’m currently building Chainlink.
+🔭 I’m currently building Blockchain solutions.
 
 👯 I’m looking to collaborate on **Any JS/Golang/Blockchain Project**
 
